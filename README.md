@@ -52,6 +52,6 @@ Men **[NadPOS](https://nadpos.uz)** — restoranlar uchun to'liq POS ekotizimini
 ### 📫 Bog'lanish
 
 <p align="left">
-  <a href="https://nadpos.uz"><img src="https://img.shields.io/badge/Website-nadpos.uz-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://just_nadir"><img src="https://img.shields.io/badge/Website-nadpos.uz-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://t.me/nadir13"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
