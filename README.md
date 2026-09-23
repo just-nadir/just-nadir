@@ -1,6 +1,6 @@
 # Nodir
 
-Full-stack developer. [NadPOS](https://nadpos.uz)ni yozaman — O'zbekiston restoranlari uchun POS tizimi: kassa, backend, boshqaruv panellari, yetkazib berish boti — bittasi yagona repoda emas, ettita alohida ilova sifatida.
+Full-stack developer. [NadPOS](https://nadpos.uz)ni yozaman — O'zbekiston restoranlari uchun POS tizimi: kassa, backend, boshqaruv panellari, yetkazib berish boti — bittasi yagona repoda emas, yettita alohida ilova sifatida.
 
 Stack: NestJS, React, Electron, PostgreSQL, Prisma, SQLite.
 
