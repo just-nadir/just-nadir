@@ -36,11 +36,6 @@ Eng katta loyiham — **[NadPOS](https://nadpos.uz)**, restoranlar uchun POS eko
 ### 📊 GitHub statistikasi
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-xi-two-016ln4gy8n.vercel.app/api?username=just-nadir&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-xi-two-016ln4gy8n.vercel.app/api/top-langs/?username=just-nadir&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=just-nadir&hide_border=true" />
 </p>
 
