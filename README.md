@@ -50,5 +50,5 @@ Eng katta loyiham — **[NadPOS](https://nadpos.uz)**, restoranlar uchun POS eko
 
 <p align="left">
   <a href="https://nadpos.uz"><img src="https://img.shields.io/badge/Website-nadpos.uz-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/nadir13"><img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
